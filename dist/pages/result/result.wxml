@@ -1,0 +1,17 @@
+<view class="page">
+    <view class="weui-msg">
+        <view class="weui-msg__icon-area">
+            <icon type="success" size="93"></icon>
+        </view>
+        <view class="weui-msg__text-area">
+            <view class="weui-msg__title">方案1更好！</view>
+            <view class="weui-msg__desc">方案1的转化率为 12 %，方案2的转化率为 11%，方案 1 更好!<navigator url="" class="weui-msg__link">文字链接</navigator></view>
+        </view>
+        <view class="weui-msg__opr-area">
+            <view class="weui-btn-area">
+                <button class="weui-btn" type="primary">重新测试</button>
+                <button class="weui-btn" type="default">什么玩意呀</button>
+            </view>
+        </view>
+    </view>
+</view>
